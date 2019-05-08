@@ -24,13 +24,13 @@ spring.datasource.url=jdbc:sqlserver://YOUR_DATABASE;integratedSecurity=true
 ## Running 
 You can use the included maven wrapper scripts 
 
-** bash **
+**bash**
 
 ```bash
 ./mvnw spring-boot:run
 ```
 
-** Windows Command Prompt**
+**Windows Command Prompt**
 
 ```cmd
 mvnw.bat spring-boot:run
