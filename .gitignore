@@ -8,7 +8,6 @@
 .loadpath
 .recommenders
 .classpath
-.mvn/
 target/
 
 *.tmp
